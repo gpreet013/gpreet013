@@ -1,9 +1,9 @@
 
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gpreet013.gpreet013" />
 
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gurpreet!; Thankyou+for+visiting" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;I'm+Gurpreet Kaur!;Thankyou+for+visiting....)](https://git.io/typing-svg)
+
 
 <!--
 **gpreet013/gpreet013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
