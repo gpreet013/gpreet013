@@ -2,7 +2,6 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gpreet013.gpreet013" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋;I'm+Gurpreet Kaur!;Thankyou+for+visiting....)](https://git.io/typing-svg)
 
 
 <!--
